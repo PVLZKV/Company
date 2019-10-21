@@ -1,0 +1,6 @@
+окт. 21, 2019 2:41:20 AM Company fieldSetter
+INFO: Please add processing of "class java.lang.Character" to fieldSetter method
+окт. 21, 2019 2:41:20 AM Company fieldSetter
+INFO: Please add processing of "class java.lang.Character" to fieldSetter method
+
+
